@@ -1,6 +1,7 @@
 var alphabets = {}
 
 alphabets['32'] = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ234567';
+alphabets['38'] = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 -&';
 alphabets['64'] = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/';
 alphabets['85'] = '!\"#$%&\'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstu';
 alphabets['91'] = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!#$%&()*+,./:;<=>?@[]^_`{|}~"';
